@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"label": "Super Fast",
+			"desc": "No more consume time when load pages",
+			"icon": "mdi:storm"
+		},
+		{
+			"id": 2,
+			"label": "Secure Database",
+			"desc": "Using latest databases technology",
+			"icon": "mdi:database-lock"
+		},
+		{
+			"id": 3,
+			"label": "Responsive Design",
+			"desc": "Fit in all screen size",
+			"icon": "mdi:tablet-cellphone"
+		},
+		{
+			"id": 4,
+			"label": "Customizable",
+			"desc": "Turn your own design to functionally website",
+			"icon": "material-symbols:edit-document"
+		}
+	]
+}
